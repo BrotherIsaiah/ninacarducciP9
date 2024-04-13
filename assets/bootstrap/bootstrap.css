@@ -401,6 +401,8 @@ textarea {
     display: none;
     float: left;
     width: 100%;
+    max-width: 1903px;
+    max-height: 880px;
     margin-right: -100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
