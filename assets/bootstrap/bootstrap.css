@@ -400,7 +400,8 @@ textarea {
     position: relative;
     display: none;
     float: left;
-    width: 100%;
+    width: 1903px;
+    height: 880px;
     max-width: 1903px;
     max-height: 880px;
     margin-right: -100%;
