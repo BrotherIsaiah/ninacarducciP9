@@ -400,7 +400,7 @@ textarea {
     position: relative;
     display: none;
     float: left;
-    
+    width: 100%;
     margin-right: -100%;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -495,16 +495,17 @@ textarea {
 
   .d-block {
     display: block !important;
+    
   }
 
   .w-100 {
-    width: auto !important;
-    max-width: 1903px;
+    width: 100% !important;
+    
   }
 
   .h-100 {
-    height: auto !important;
-    max-height: 880px;
+    height: 100% !important;
+    
   }
 
   .my-4 {
