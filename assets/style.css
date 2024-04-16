@@ -50,14 +50,15 @@ body {
 	position: relative;
 }
 
-.picture.left img{
-	width: 374px;
-	height: 329px;
+.picture img{
+	width: 100%;
 }
 
 .picture.left::before {
 	content: ' ';
 	background-color: #E5975F;
+	width: 374px;
+	height: 329px;
 	position: absolute;
 	bottom: 0;
 	left: 0;
