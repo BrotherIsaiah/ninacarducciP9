@@ -50,9 +50,6 @@ body {
 	position: relative;
 }
 
-.picture img{
-	width: 100%;
-}
 
 .picture.left::before {
 	content: ' ';
