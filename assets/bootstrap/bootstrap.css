@@ -229,10 +229,7 @@ textarea {
   resize: vertical;
 }
 
-.img-fluid {
-  max-width: 440px;
-  max-height: 416px;
-}
+
 
 .container,
 .container-fluid,
