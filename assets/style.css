@@ -207,14 +207,12 @@ nav a {
 	display: flex;
 }
 
-.picture.right img{
-	width: 374px;
-	height: 329px;
-}
 .picture.right::before {
 	content: ' ';
 	background-color: #BEB45A;
 	position: absolute;
+	width: 374px;
+	height: 329px;
 	bottom: 0;
 	right: 0;
 	z-index: -1;
